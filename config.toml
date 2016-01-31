@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http://localhost:8000/"
+baseurl = "http://emmaleeiversen.com.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
-title = "Emma Lee Iversen Art Page"
+title = "Emma Lee Iversen"
 theme = "hugo-artists-theme"
 
 [params]
