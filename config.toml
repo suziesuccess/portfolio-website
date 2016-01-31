@@ -44,6 +44,7 @@ theme = "hugo-artists-theme"
 	[params.about]
 		title = "About me"
 		bio = "**Emma Lee specializes in choreographing** for performance. Most of the things she makes are [clown interfaces](//clownfrowns.com/), but she also puts effort into crafting [inter-galatic beats](//soundcloud.com/0c70pus) and [vimeo videos](//vimeo.com/user/suziesuccess) about making flowers happen."
+		stitle = "Skills"
 
 		[[params.about.skills]]
 			name = "Clown"
@@ -115,4 +116,4 @@ theme = "hugo-artists-theme"
 
 
 	[params.footer]
-		copyright = "built by kidtronnix"
+		copyright = "site constructed by kidtronnix "
