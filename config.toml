@@ -47,35 +47,35 @@ theme = "hugo-artists-theme"
 		stitle = "Skills"
 
 		[[params.about.skills]]
-			name = "Clown"
+			name = "Improvisation"
 			value = 9
 
 		[[params.about.skills]]
-			name = "Choreography"
+			name = "Comedy"
 			value = 7
 
 		[[params.about.skills]]
-			name = "Improvisation"
+			name = "Voice"
 			value = 10
 
 		[[params.about.skills]]
-			name = "Performance"
+			name = "Poetry"
 			value = 6
 
 		[[params.about.skills]]
-			name = "Singing"
+			name = "Contemporary Dance"
 			value = 7
 
 		[[params.about.skills]]
-			name = "Visual Design"
+			name = "Imaginative Play"
 			value = 5
 
 		[[params.about.skills]]
-			name = "Seeing"
+			name = "Hip Hop"
 			value = 8
 
 		[[params.about.skills]]
-			name = "Programming"
+			name = "Clown"
 			value = 1
 
 	# Contact secion
