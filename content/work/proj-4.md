@@ -1,5 +1,7 @@
-Montreal, 2014
+Montreal, 2015
 
-I choreographed and danced in this piece.
+I choreographed and danced in this piece
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QZ9hhQ_UaTU" frameborder="0" allowfullscreen></iframe>
+<video src="/videos/take-the-plunge.mp4" style="width: 100%" controls>
+  Your browser does not support the video tag.
+</video>
