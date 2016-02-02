@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http://localhost:8000/"
+baseurl = "http://emmaleeiversen.com/"
 languageCode = "en-us"
-title = "Emma Lee Iversen Art Page"
+title = "Emma Lee Iversen"
 theme = "hugo-artists-theme"
 
 [params]
@@ -25,7 +25,7 @@ theme = "hugo-artists-theme"
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	email = "suzie.success@gmail.com"
+	email = "emmalee.iversen@gmail.com"
 
 
 	# Header an navigation
@@ -43,39 +43,39 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "**Emma Lee specializes in choreographing** for performance. Most of the things she makes are [clown interfaces](//clownfrowns.com/), but she also puts effort into crafting [inter-galatic beats](//soundcloud.com/0c70pus) and [vimeo videos](//vimeo.com/user/suziesuccess) about making flowers happen."
+		bio = "Since growing up in a small town near the ocean, natural landscapes have had a magnetic pull on me. What I love to do is move and play. I am a dancer, performer and choreographer. The knowledge within my dancing body is informed by my history of Hip Hop, African, Salsa and Contemporary Dance as well as Clown and Bouffon. With my Choreography I hope to bring people into unexplored territory within themselves, therefore giving them insight into the world around them.<br/><br/>Download my full [resume](/cv.pdf)."
 		stitle = "Skills"
 
 		[[params.about.skills]]
-			name = "Clown"
+			name = "Improvisation"
 			value = 9
 
 		[[params.about.skills]]
-			name = "Choreography"
+			name = "Comedy"
 			value = 7
 
 		[[params.about.skills]]
-			name = "Improvisation"
+			name = "Voice"
 			value = 10
 
 		[[params.about.skills]]
-			name = "Performance"
+			name = "Poetry"
 			value = 6
 
 		[[params.about.skills]]
-			name = "Singing"
+			name = "Contemporary Dance"
 			value = 7
 
 		[[params.about.skills]]
-			name = "Visual Design"
+			name = "Imaginative Play"
 			value = 5
 
 		[[params.about.skills]]
-			name = "Seeing"
+			name = "Hip Hop"
 			value = 8
 
 		[[params.about.skills]]
-			name = "Programming"
+			name = "Clown"
 			value = 1
 
 	# Contact secion
@@ -116,4 +116,4 @@ theme = "hugo-artists-theme"
 
 
 	[params.footer]
-		copyright = "site constructed by kidtronnix "
+		copyright = "site constructed by kidtronnix"

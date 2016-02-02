@@ -14,5 +14,9 @@ title = "Portfolio"
     folder = "proj-3"
 
 [[projects]]
-    name = "Birth Breath Death"
+    name = "Take The Plunge"
     folder = "proj-4"
+
+[[projects]]
+    name = "Birth Breath Death"
+    folder = "proj-5"
